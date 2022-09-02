@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FunnyCat27
+- I attempt to code.
+- My favroute programming languages are -> C++, C#, python, rust and batch
